@@ -1,4 +1,4 @@
-# Voxa AI Interview Platform — connected starter
+# Talentra AI Interview Platform — connected starter
 
 ## Stack
 - Frontend: React + Vite + Axios
