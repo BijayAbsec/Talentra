@@ -1,0 +1,27 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# React
+node_modules/
+dist/
+build/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+
+# Logs
+*.log
+
+# Database backups
+*.bak
+*.mdf
+*.ldf
